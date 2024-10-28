@@ -1,13 +1,15 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "amymunes.github.io"
+  title: "Amy Munes"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - Background
+      - Publications
 
 format:
   html:

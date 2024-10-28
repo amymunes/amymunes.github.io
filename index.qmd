@@ -1,7 +1,11 @@
 ---
-title: "amymunes.github.io"
+title: "Amy Munes"
 ---
 
-This is a Quarto website.
+Ph.D Student at University of Wisconsin Madison
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Adviser: Dr. Zach Peery
+
+Co-adviser: Dr Emily Fountain
+
+My mission is to create a better understand of ecotoxicology in an anthropocentric world through molecular techniques.
